@@ -7,7 +7,7 @@ from datasets import get_bank_data
 
 st.set_page_config(
     page_title="Live Dashboard",
-    page_icon="✅",
+    page_icon="📊",
     layout="wide",
 )
 
